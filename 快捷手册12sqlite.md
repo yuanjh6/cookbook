@@ -1,4 +1,4 @@
-# 快捷手册14sqlite
+# 快捷手册12sqlite
 快捷手册sqlite
 
 查询命令和mysql差不多，差异较大的是管理命令，sqlite大多以“.”点标记开头。

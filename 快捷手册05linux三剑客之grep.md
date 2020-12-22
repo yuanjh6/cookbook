@@ -1,4 +1,4 @@
-# 快捷手册06linux三剑客之grep
+# 快捷手册05linux三剑客之grep
 快捷手册grep
 
 ## 基本格式
